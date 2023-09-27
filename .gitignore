@@ -1,0 +1,13 @@
+src/ai_model/itemcls.caffemodel
+src/3rdParty/opencv3.4.5/lib/libopencv_cudafilters.so.3.4.5
+src/3rdParty/opencv3.4.5/lib/libopencv_cudaarithm.so.3.4
+src/3rdParty/opencv3.4.5/lib/libopencv_cudaoptflow.so.3.4.5
+src/3rdParty/opencv3.4.5/lib/libopencv_cudawarping.so.3.4
+src/3rdParty/opencv3.4.5/lib/libopencv_cudaarithm.so
+src/3rdParty/opencv3.4.5/lib/libopencv_cudawarping.so
+src/3rdParty/opencv3.4.5/lib/libopencv_cudaarithm.so.3.4.5
+src/3rdParty/opencv3.4.5/lib/libopencv_cudafilters.so.3.4
+src/3rdParty/opencv3.4.5/lib/libopencv_cudawarping.so.3.4.5
+src/3rdParty/opencv3.4.5/lib/libopencv_cudaoptflow.so.3.4
+src/3rdParty/opencv3.4.5/lib/libopencv_cudaoptflow.so
+src/3rdParty/opencv3.4.5/lib/libopencv_cudafilters.so
